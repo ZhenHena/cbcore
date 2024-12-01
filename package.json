@@ -1,0 +1,26 @@
+{
+  "name": "cbcore",
+  "version": "1.0.0",
+  "main": "dist/cbcore.umd.js",
+  "module": "dist/cbcore.es.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "plugin"
+  ],
+  "author": "Cheng Bin",
+  "license": "MIT",
+  "description": "CBCORE 前端 Vue 库。",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.1",
+    "vue": "^3.5.13"
+  }
+}
