@@ -1,5 +1,5 @@
 {
-  "name": "cbcore-test",
+  "name": "cbcore",
   "version": "1.0.0-beta",
   "main": "dist/cbcore.umd.js",
   "module": "dist/cbcore.es.js",
