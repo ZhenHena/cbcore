@@ -1,6 +1,6 @@
 {
   "name": "cbcore",
-  "version": "1.0.0-beta",
+  "version": "1.0.5-beta",
   "main": "dist/cbcore.umd.js",
   "module": "dist/cbcore.es.js",
   "files": [
